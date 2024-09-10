@@ -1,0 +1,27 @@
+table{
+    width: 50%;
+    margin: auto;
+    
+}
+h1,h2{
+   
+    text-align: center;
+    color: chocolate;
+}
+input, select,textarea{
+    border-radius: 5px;
+    padding: 10px;
+    background-color: antiquewhite;
+    width: 250px;
+}
+button{
+    border-radius: 5px; /* bordes*/
+    padding: 10px; 
+    width: 150px; /* ancho de la tabla*/
+    color: aqua;
+    background-color: blueviolet;
+}
+.origen{
+    background-color: chartreuse;
+    color: white;
+}
